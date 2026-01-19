@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|d:\\iti\\\u0634\u0647\u0631 10\\windows form project\\my final project\\digitalnotesmanager\\digitalnotesmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\digitalnotesmanager\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|d:\\iti\\\u0634\u0647\u0631 10\\windows form project\\my final project\\digitalnotesmanager\\digitalnotesmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|d:\\iti\\\u0634\u0647\u0631 10\\windows form project\\my final project\\digitalnotesmanager\\digitalnotesmanager\\noteeditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\noteeditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|d:\\iti\\\u0634\u0647\u0631 10\\windows form project\\my final project\\digitalnotesmanager\\digitalnotesmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|d:\\iti\\\u0634\u0647\u0631 10\\windows form project\\my final project\\digitalnotesmanager\\digitalnotesmanager\\noteeditorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\noteeditorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\digitalnotesmanager\\noteeditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\noteeditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|d:\\iti\\\u0634\u0647\u0631 10\\windows form project\\my final project\\digitalnotesmanager\\digitalnotesmanager\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\digitalnotesmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E990F95E-8D3B-4892-B9AA-F3D4CEDFA313}|DigitalNotesManager\\DigitalNotesManager.csproj|solutionrelative:digitalnotesmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteEditorForm.Designer.cs",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\NoteEditorForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\NoteEditorForm.Designer.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\NoteEditorForm.Designer.cs",
+              "RelativeToolTip": "DigitalNotesManager\\NoteEditorForm.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:11:41.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MDIForm.cs",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MDIForm.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\MDIForm.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MDIForm.cs",
+              "RelativeToolTip": "DigitalNotesManager\\MDIForm.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAKAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:46:13.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteEditorForm.cs",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\NoteEditorForm.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\NoteEditorForm.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\NoteEditorForm.cs",
+              "RelativeToolTip": "DigitalNotesManager\\NoteEditorForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:47:32.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\MainForm.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MainForm.cs [Design]",
+              "RelativeToolTip": "DigitalNotesManager\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:59:09.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\Form1.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\Form1.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\Form1.cs",
+              "RelativeToolTip": "DigitalNotesManager\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:33:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\MainForm.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MainForm.cs",
+              "RelativeToolTip": "DigitalNotesManager\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:59:01.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MDIForm.cs [Design]",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MDIForm.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\MDIForm.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\MDIForm.cs [Design]",
+              "RelativeToolTip": "DigitalNotesManager\\MDIForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:05:22.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteEditorForm.cs [Design]",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\NoteEditorForm.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\NoteEditorForm.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\NoteEditorForm.cs [Design]",
+              "RelativeToolTip": "DigitalNotesManager\\NoteEditorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:11:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\My Final Project\\DigitalNotesManager\\DigitalNotesManager\\Form1.cs",
+              "RelativeDocumentMoniker": "DigitalNotesManager\\Form1.cs",
+              "ToolTip": "D:\\iti\\\u0634\u0647\u0631 10\\windows form project\\Project Copy 1 - Copy - Copy\\DigitalNotesManager\\DigitalNotesManager\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Project Copy 1 - Copy - Copy\\DigitalNotesManager\\DigitalNotesManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:29:52.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
